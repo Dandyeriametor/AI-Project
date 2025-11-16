@@ -1,6 +1,5 @@
-# AI-Project
-Fraud Detection Using Machine Learning
-Anomaly Detection with Random Forest (Google Colab Project)
+# AI-Project-Fraud Detection Using Machine Learning
+# Anomaly Detection with Random Forest (Google Colab Project)
 
 This project applies machine learning techniques to detect fraudulent online transactions using an imbalanced fraud dataset. The goal is to build, evaluate, and deploy a fraud detection model entirely in Google Colab, following end-to-end AI development best practices.
 
